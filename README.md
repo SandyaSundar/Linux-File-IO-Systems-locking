@@ -71,12 +71,9 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
-
 ## OUTPUT:
 <img width="345" height="56" alt="ex7-1-1" src="https://github.com/user-attachments/assets/589568de-e6f1-47c4-a72c-c310df83b069" />
 <img width="337" height="57" alt="ex7-1-2" src="https://github.com/user-attachments/assets/c12ba0cd-8bea-49c4-9cf3-d7307c88209c" />
-
-
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -147,18 +144,10 @@ int main(int argc, char *argv[]) {
 }
 
 ```
-
-
 ## OUTPUT
 
 <img width="1013" height="738" alt="7-2-1" src="https://github.com/user-attachments/assets/02b6fa05-bb97-4abc-9274-cf5bb260ef75" />
 <img width="991" height="432" alt="7-2-2" src="https://github.com/user-attachments/assets/99b570c8-460a-43e1-9c59-da8ee22c169a" />
-
-
-
-
-
-
 
 # RESULT:
 The programs are executed successfully.
